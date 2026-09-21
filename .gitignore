@@ -1,0 +1,11 @@
+# Executables
+*.out
+*.exe
+external_sort
+
+# Data and temporary partition files
+*.csv
+
+# OS metadata
+.DS_Store
+Thumbs.db
